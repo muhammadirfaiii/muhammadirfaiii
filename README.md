@@ -1,4 +1,4 @@
-## <span style="font-family: 'Courier New', monospace;">Hi The Compiler</span>
+# <span style="font-family: 'Courier New', monospace;"></> Hi The Compiler </></span>
 
 <span style="font-family: 'Courier New', monospace;"> My Repo { あにき! }</span>
 
@@ -6,7 +6,7 @@
 
 ![Coffee Black](img/ghostcodea.png)
 
-<span style="font-family: 'Courier New', monospace;"> I Code With</span>
+<span style="font-family: 'Courier New', monospace;"> I Code With :</span>
 
 ```
 your-project/
