@@ -1,6 +1,6 @@
-## <span style="font-family: 'Courier New', monospace;">Hi The Compiler 👋</span>
+## <span style="font-family: 'Courier New', monospace;">Hi The Compiler</span>
 
-<span style="font-family: 'Courier New', monospace;"> Wellcome to My Repo { あにき! }</span>
+<span style="font-family: 'Courier New', monospace;"> My Repo { あにき! }</span>
 
 <span style="font-family: 'Courier New', monospace;">I'm `fa'i`, Ghost Code Developer.</span>
 
