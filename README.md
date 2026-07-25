@@ -17,7 +17,7 @@ $ npm run coding
 (4/4) checking... [#####.....] Productivity +999%.
 ```
 
-`I Code With :`
+I Code With :
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -39,7 +39,7 @@ $ npm run coding
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
 </div>
 
-###
+##
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/muhammadirfaiii/muhammadirfaiii/snake-output/snake.svg" alt="Snake animation" />
 
