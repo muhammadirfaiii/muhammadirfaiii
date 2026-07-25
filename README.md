@@ -6,40 +6,36 @@
 
 ![Coffee Black](img/ghostcodea.png)
 
-<marquee> 🦃🦅🐓🦅🐦🐥🦃🐓🦚🐛 ᓚᘏᗢ </marquee>
+<span style="font-family: 'Courier New', monospace;"> I Code With</span>
 
-<!-- <!DOCTYPE html> -->
-<!-- <html lang="id"> -->
-<!-- <head>
-<meta charset="UTF-8">
-<style>
-  .teks-ketik {
-    font-family: monospace;
-    font-size: 20px;
-    white-space: nowrap;
-    overflow: hidden;
-    border-right: 2px solid orange;
-    width: 17ch; /* Ubah sesuai jumlah huruf pada teks */
-    animation: ketik 9s steps(17, end), kedip 0.5s step-end infinite;
-  } -->
-
-<!-- **muhammadirfaiii/muhammadirfaiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-````
-```text
+```
 your-project/
 ├── file.txt
 └── folder/
-````
+```
+
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
+</div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/muhammadirfaiii/muhammadirfaiii/snake-output/snake.svg" alt="Snake animation" />
+
+###
