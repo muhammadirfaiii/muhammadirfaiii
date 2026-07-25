@@ -1,83 +1,23 @@
 # `</> Hi The Compiler </>`
 
-` My Repo { あにき! } `
+My Repo `{ あにき! } `
 
 <span style="font-family: 'Courier New', monospace;">I'm `fa'i`, Ghost Code Developer.</span>
 
 ![Coffee Black](img/ghostcodea.png)
 
-# One Shot, One Build
-
-> _"Some developers debug with breakpoints. I debug with coffee and cigarettes."_
-
-
-## Request Header
-
-```json
-{
-  "API-Hot-Water": "90°C - 96°C",
-  "Content-Type": "Fresh Brew"
-}
-```
-
-## Request Body
-
-```json
-{
-  "username": "Coffee",
-  "password": "Marlboro"
-}
-```
-
-## Processing...
-
-```text
-Brewing Coffee...
-Lighting Marlboro...
-Compiling Brain...
-```
-
-## Response
-
-**HTTP Status:** `200 OK`
-
-```json
-{
-  "id": "9096°C",
-  "status": "Success",
-  "feel": "Good Idea",
-  "focus": "Maximum",
-  "bug": "404 Not Found",
-  "energy": "100%"
-}
-```
-
----
+## `One Shot!, One Build!`
 
 ```bash
 $ npm run coding
 
-☕ Coffee detected...
-🚬 Marlboro connected...
-🧠 Brain initialized...
-🚀 Productivity +999%
+(1/4) checking... [##########] Coffee detected.
+(2/4) checking... [########..] Marlboro connected.
+(3/4) checking... [#######...] Brain initialized.
+(4/4) checking... [#####.....] Productivity +999%.
 ```
 
-> **Rule #1**
->
-> **No Coffee ☕ = No Idea 🤯**
->
-> **No Smoke 🚬 = No Flow 😵**
->
-> **No Both = No Code 💀**
-
-<span style="font-family: 'Courier New', monospace;"> I Code With :</span>
-
-```
-your-project/
-├── file.txt
-└── folder/
-```
+`I Code With :`
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
