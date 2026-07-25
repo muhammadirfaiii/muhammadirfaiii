@@ -2,9 +2,9 @@
 
 <span style="font-family: 'Courier New', monospace;"> Wellcome to My Repo { あにき! }</span>
 
-<span style="font-family: 'Courier New', monospace;">I'm `fa'i`, Ghost Code Developer </span> `ᓚᘏᗢ.`
+<span style="font-family: 'Courier New', monospace;">I'm `fa'i`, Ghost Code Developer.</span>
 
-![Coffee Black](img/coffee.png)
+![Coffee Black](img/ghostcodea.png)
 
 <marquee> 🦃🦅🐓🦅🐦🐥🦃🐓🦚🐛 ᓚᘏᗢ </marquee>
 
@@ -43,93 +43,3 @@ your-project/
 ├── file.txt
 └── folder/
 ````
-
-<!--
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
-
-<style>
-
-.neon-text {
-    font-size: 4rem;
-    color: #fff;
-    text-shadow:
-        0 0 5px #ff005e,
-        0 0 10px #ff005e,
-        0 0 20px #ff005e,
-        0 0 40px #ff005e,
-        0 0 80px #ff005e;
-    animation: glow 1.5s infinite alternate;
-}
-
-@keyframes glow {
-    from {
-        text-shadow:
-            0 0 5px #ff005e,
-            0 0 10px #ff005e,
-            0 0 20px #ff005e,
-            0 0 40px #ff005e,
-            0 0 80px #ff005e;
-    }
-
-    to {
-        text-shadow:
-            0 0 10px #00d4ff,
-            0 0 20px #00d4ff,
-            0 0 40px #00d4ff,
-            0 0 80px #00d4ff,
-            0 0 160px #00d4ff;
-    }
-}
-</style>
-
-<div class="neon-container">
-    <h1 class="neon-text">NEON GLOW</h1>
-</div>
-
-<style>
-/* Cursor */
-.cursor{
-    position: relative;
-    width: 24em;
-    margin: 0 auto;
-    border-right: 2px solid rgba(255,255,255,.75);
-    font-size: 30px;
-    text-align: center;
-    white-space: nowrap;
-    overflow: hidden;
-    transform: translateY(-50%);
-}
-
-/* Animation */
-.typewriter-animation{
-    animation:
-        typewriter 10s steps(50) 1s both,
-        blinkingCursor .5s step-end infinite;
-}
-
-@keyframes typewriter{
-    from{width:0;}
-    to{width:30em;}
-}
-
-@keyframes blinkingCursor{
-    from{border-right-color:rgba(255,255,255,.75);}
-    to{border-right-color:transparent;}
-}
-
-/* Global */
-body{
-    margin-top:4em;
-    padding:5em;
-    color:#f1f1f1;
-    font-family:'Anonymous Pro', monospace;
-}
-</style>
-
-<p class="cursor typewriter-animation">
-Hi there, I'm a Typewriter Animation made in pure CSS!
-</p>
