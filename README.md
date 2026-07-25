@@ -1,10 +1,75 @@
-# <span style="font-family: 'Courier New', monospace;"></> Hi The Compiler </></span>
+# `</> Hi The Compiler </>`
 
-<span style="font-family: 'Courier New', monospace;"> My Repo { あにき! }</span>
+` My Repo { あにき! } `
 
 <span style="font-family: 'Courier New', monospace;">I'm `fa'i`, Ghost Code Developer.</span>
 
 ![Coffee Black](img/ghostcodea.png)
+
+# One Shot, One Build
+
+> _"Some developers debug with breakpoints. I debug with coffee and cigarettes."_
+
+
+## Request Header
+
+```json
+{
+  "API-Hot-Water": "90°C - 96°C",
+  "Content-Type": "Fresh Brew"
+}
+```
+
+## Request Body
+
+```json
+{
+  "username": "Coffee",
+  "password": "Marlboro"
+}
+```
+
+## Processing...
+
+```text
+Brewing Coffee...
+Lighting Marlboro...
+Compiling Brain...
+```
+
+## Response
+
+**HTTP Status:** `200 OK`
+
+```json
+{
+  "id": "9096°C",
+  "status": "Success",
+  "feel": "Good Idea",
+  "focus": "Maximum",
+  "bug": "404 Not Found",
+  "energy": "100%"
+}
+```
+
+---
+
+```bash
+$ npm run coding
+
+☕ Coffee detected...
+🚬 Marlboro connected...
+🧠 Brain initialized...
+🚀 Productivity +999%
+```
+
+> **Rule #1**
+>
+> **No Coffee ☕ = No Idea 🤯**
+>
+> **No Smoke 🚬 = No Flow 😵**
+>
+> **No Both = No Code 💀**
 
 <span style="font-family: 'Courier New', monospace;"> I Code With :</span>
 
