@@ -2,23 +2,23 @@
 
 My Repo `{ あにき! } `
 
-<span style="font-family: 'Courier New', monospace;">I'm `fa'i`, Ghost Code Developer.</span>
+I'm `fa'i`, Ghost Code Developer.
 
 ![Coffee Black](img/ghostcodea.png)
 
-## `One Shot!, One Build!`
+#One Shot!, One Build!;
 
 ```bash
-$ npm run coding
+$ npm run
 
 (1/4) checking... [##########] Coffee detected.
-(2/4) checking... [########..] Marlboro connected.
+(2/4) checking... [########..] Smoke connected.
 (3/4) checking... [#######...] Brain initialized.
 (4/4) checking... [#####.....] Productivity +999%.
 ```
 
-I Code With :
-
+<details>
+  <summary>ghostcode@system:~/my-project ls -l</summary>
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -39,8 +39,21 @@ I Code With :
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
 </div>
 
+</details>
+
 ##
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/muhammadirfaiii/muhammadirfaiii/snake-output/snake.svg" alt="Snake animation" />
 
 ###
+
+<details>
+  <summary>ghostcode@system:~/my-project ls -l</summary>
+
+| Name                                                                                        | A short summary                     | Stars                                                                                                | Framework                                                                                     |
+| ------------------------------------------------------------------------------------------- | ----------------------------------- | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [chat-btc](https://github.com/alexandresanlim/chat-btc)                                     | A ChatGPT but for bitcoiners        | ![GitHub Repo stars](https://img.shields.io/github/stars/alexandresanlim/chat-btc)                   | ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB) |
+| [flutter-todo-list-chat-gpt](https://github.com/alexandresanlim/flutter-todo-list-chat-gpt) | ToDo list generator using Chat GPT. | ![GitHub Repo stars](https://img.shields.io/github/stars/alexandresanlim/flutter-todo-list-chat-gpt) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)          |
+| [xamarin-sample-gallery](https://github.com/alexandresanlim/xamarin-sample-gallery)         | A list of small apps on Xamarin.    | ![GitHub Repo stars](https://img.shields.io/github/stars/alexandresanlim/xamarin-sample-gallery)     | ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?logo=xamarin&logoColor=white)          |
+
+</details>
