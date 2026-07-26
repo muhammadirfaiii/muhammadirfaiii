@@ -39,17 +39,12 @@ $ npm run
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
 </div>
+
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=60&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 </details>
-
-##
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/muhammadirfaiii/muhammadirfaiii/snake-output/snake.svg" alt="Snake animation" />
-
-###
 
 <details>
   <summary>ghostcode@system: ~/my-project$ ls -l </summary>
@@ -59,3 +54,16 @@ $ npm run
 | [health-care](https://github.com/muhammadirfaiii/HealthCareApplication) | _A Mobile-based application for medication and hospital listings._ | ![GitHub Repo stars](https://img.shields.io/github/stars/muhammadirfaiii/HealthCareApplication) | ![Java](https://skillicons.dev/icons?i=java) |
 
 </details>
+
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/muhammadirfai/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+</div>
+
+##
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/muhammadirfaiii/muhammadirfaiii/snake-output/snake.svg" alt="Snake animation" />
+
+###
