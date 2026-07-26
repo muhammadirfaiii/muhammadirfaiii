@@ -3,7 +3,7 @@
 My Repo `{ あにき! } `
 
 I'm `fa'i`, Ghost Code Developer.
-<img data-importer="profile-views" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=muhammadirfaiii.muhammadirfaiii&left_color=grey&right_color=darkgreen&left_text=Pings"  />
+<img data-importer="profile-views" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=muhammadirfaiii.muhammadirfaiii&left_color=grey&right_color=green&left_text=Pings"  />
 
 ![Coffee Black](img/ghostcodea.png)
 
@@ -40,18 +40,14 @@ $ npm run
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
 </div>
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=60&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
 </details>
 
 <details>
   <summary>ghostcode@system: ~/my-project$ ls -l </summary>
 
-| `name`                                                                  | `a short summary`                                                  | `stars`                                                                                         | `framework`                                  |
-| ----------------------------------------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- | -------------------------------------------- |
-| [health-care](https://github.com/muhammadirfaiii/HealthCareApplication) | _A Mobile-based application for medication and hospital listings._ | ![GitHub Repo stars](https://img.shields.io/github/stars/muhammadirfaiii/HealthCareApplication) | ![Java](https://skillicons.dev/icons?i=java) |
+| `name`                                                                  | `a short summary`                                                  | `stars`                                                                                         | `framework`                                                                                                                                                                                |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [health-care](https://github.com/muhammadirfaiii/HealthCareApplication) | _A Mobile-based application for medication and hospital listings._ | ![GitHub Repo stars](https://img.shields.io/github/stars/muhammadirfaiii/HealthCareApplication) | <div align="center"><img src="https://skillicons.dev/icons?i=java" height="20" alt="Java" />&nbsp;<img src="https://cdn.simpleicons.org/android/3DDC84" height="20" alt="Android" /></div> |
 
 </details>
 
@@ -60,6 +56,10 @@ $ npm run
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+</div>
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=60&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ##
