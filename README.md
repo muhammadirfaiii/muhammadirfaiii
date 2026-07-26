@@ -18,7 +18,9 @@ $ npm run
 ```
 
 <details>
-  <summary>ghostcode@system:~/my-project ls -l</summary>
+  <summary>ghostcode@system: ~/my-tools$ ls -l </summary>
+  total 9k
+
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -31,8 +33,6 @@ $ npm run
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img width="12" />
@@ -48,12 +48,12 @@ $ npm run
 ###
 
 <details>
-  <summary>ghostcode@system:~/my-project ls -l</summary>
+  <summary>ghostcode@system: ~/my-project$ ls -l </summary>
 
-| Name                                                                                        | A short summary                     | Stars                                                                                                | Framework                                                                                     |
-| ------------------------------------------------------------------------------------------- | ----------------------------------- | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [chat-btc](https://github.com/alexandresanlim/chat-btc)                                     | A ChatGPT but for bitcoiners        | ![GitHub Repo stars](https://img.shields.io/github/stars/alexandresanlim/chat-btc)                   | ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB) |
-| [flutter-todo-list-chat-gpt](https://github.com/alexandresanlim/flutter-todo-list-chat-gpt) | ToDo list generator using Chat GPT. | ![GitHub Repo stars](https://img.shields.io/github/stars/alexandresanlim/flutter-todo-list-chat-gpt) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)          |
-| [xamarin-sample-gallery](https://github.com/alexandresanlim/xamarin-sample-gallery)         | A list of small apps on Xamarin.    | ![GitHub Repo stars](https://img.shields.io/github/stars/alexandresanlim/xamarin-sample-gallery)     | ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?logo=xamarin&logoColor=white)          |
+| Name                                                                                        | A short summary                                                  | Stars                                                                                                | Framework                                                                                     |
+| ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [health care](https://github.com/muhammadirfaiii/HealthCareApplication)                     | A Mobile-based application for medication and hospital listings. | ![GitHub Repo stars](https://img.shields.io/github/stars/muhammadirfaiii/HealthCareApplication)                   | ![Java](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB) |
+| [flutter-todo-list-chat-gpt](https://github.com/alexandresanlim/flutter-todo-list-chat-gpt) | ToDo list generator using Chat GPT.                              | ![GitHub Repo stars](https://img.shields.io/github/stars/alexandresanlim/flutter-todo-list-chat-gpt) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)          |
+| [xamarin-sample-gallery](https://github.com/alexandresanlim/xamarin-sample-gallery)         | A list of small apps on Xamarin.                                 | ![GitHub Repo stars](https://img.shields.io/github/stars/alexandresanlim/xamarin-sample-gallery)     | ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?logo=xamarin&logoColor=white)          |
 
 </details>
