@@ -3,7 +3,7 @@
 `あにき!.` I'm `{ fa'i }` Ghost Code Developer Enthusiast.
 <img data-importer="profile-views" align="right" src="https://count.getloli.com/@:muhammadirfaiii?theme=sketch-1&padding=5&offset=2&scale=0.20&align=top&pixelated=1&darkmode=auto"  />
 
-![Coffee Black](img/img-ghost.png)
+![Coffee Black](img/ghost.png)
 
 #One Shot!, One Build!;
 
@@ -16,19 +16,23 @@ $ npm run
 (4/4) checking... [#####.....] Productivity +999%.
 ```
 
+<!-- ===== STAT'S BADGES ===== -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=muhammadirfaiii&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
-  <img width="100%" src="https://streak-stats.demolab.com/?user=muhammadirfaiii&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Arif's streak" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=muhammadirfaiii&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Fa'i's streak" />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=muhammadirfaiii&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
-  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=muhammadirfaiii&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Arif's GitHub stats" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=muhammadirfaiii&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Fa'i's GitHub stats" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=muhammadirfaiii&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
-  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=muhammadirfaiii&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=muhammadirfaiii&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top l  anguages" />
 </picture>
+
+<!-- ===== END STAT'S BADGES ===== -->
+
 <details>
   <summary>ghostcode@system: ~/my-tools$ ls -l </summary>
   total 9k
@@ -58,11 +62,15 @@ $ npm run
 <details>
   <summary>ghostcode@system: ~/my-project$ ls -l </summary> <br/>
 
+<div align="center">
+
 | name                                                                    | a short summary                                                    | stars                                                                                           | framework                                                                                                                                                                                  |
 | ----------------------------------------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [health-care](https://github.com/muhammadirfaiii/HealthCareApplication) | _A Mobile-based application for medication and hospital listings._ | ![GitHub Repo stars](https://img.shields.io/github/stars/muhammadirfaiii/HealthCareApplication) | <div align="center"><img src="https://skillicons.dev/icons?i=java" height="20" alt="Java" />&nbsp;<img src="https://cdn.simpleicons.org/android/3DDC84" height="20" alt="Android" /></div> |
 
 </details>
+
+</div>
 
 <!-- ===== SOCIAL BADGES ===== -->
 <br/>
