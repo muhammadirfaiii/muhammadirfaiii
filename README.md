@@ -3,7 +3,8 @@
 `あにき!.` I'm `{ fa'i }` Ghost Code Developer Enthusiast.
 <img data-importer="profile-views" align="right" src="https://count.getloli.com/@:muhammadirfaiii?theme=sketch-1&padding=5&offset=2&scale=0.20&align=top&pixelated=1&darkmode=auto"  />
 
-![Ghost](img/img-ghost.png)
+![Ghost](img/ghost.png)
+
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=60&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
@@ -13,6 +14,8 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=muhammadirfaiii&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
   <img width="100%" src="https://streak-stats.demolab.com/?user=muhammadirfaiii&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Fa'i's streak" />
 </picture>
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=muhammadirfaiii&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
@@ -83,11 +86,8 @@
 </div>
 
 <!-- ===== END SOCIAL BADGES ===== -->
-
 <br/>
-
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadirfaiii/muhammadirfaiii/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadirfaiii/muhammadirfaiii/output/snake-light.svg" />
@@ -100,3 +100,7 @@
 </div>
 
 <!-- ===== END SOCIAL BADGES ===== -->
+<br/>
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/muhammadirfaiii/muhammadirfaiii/projects/projects.svg" alt="Projects" />
+</div>
