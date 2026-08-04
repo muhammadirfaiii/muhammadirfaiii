@@ -1,17 +1,27 @@
 <!-- ===== TITTLE BADGES ===== -->
 
-# </> `あにき!.` I'm `{ fa'i }` Ghost Code Developer Enthusiast. </>
+# `</> Hi The Compiler </>`
 
 <!-- ===== END TITTLE BADGES ===== -->
 
 <!-- ===== BANNER BADGES ===== -->
 <img data-importer="profile-views" align="right" src="https://count.getloli.com/@:muhammadirfaiii?theme=sketch-1&padding=5&offset=2&scale=0.20&align=top&pixelated=1&darkmode=auto"  />
 
-<p align="center">
-  <a href="https://github.com/muhammadirfaiii">
-    <img src="img/img-ghost.png" width="350" alt="Ghost">
-  </a>
-</p>
+`あにき!.` I'm `{ fa'i }` Ghost Code Developer Enthusiast.
+
+<div align="center">
+
+```text
+  _   _      _ _         __        __         _     _ _
+ | | | | ___| | | ___    \ \      / /__  _ __| | __| | |
+ | |_| |/ _ \ | |/ _ \    \ \ /\ / / _ \| '__| |/ _` | |
+ |  _  |  __/ | | (_) |    \ V  V / (_) | |  | | (_| |_|
+ |_| |_|\___|_|_|\___( )    \_/\_/ \___/|_|  |_|\__,_(_)
+                     |/
+```
+
+</div>
+
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=60&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
