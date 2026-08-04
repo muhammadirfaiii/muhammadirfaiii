@@ -1,9 +1,9 @@
 [
   {
-    "name": "Healcare",
+    "name": "Healthcare",
     "repo": "muhammadirfaiii/HealthCareApplication",
-    "logo": "logo.png",
-    "description": "hai",
-    "tags": ["Java"]
+    "logo": "healthcare.png",
+    "description": "A Mobile-based application for medication and hospital listings.",
+    "tags": ["Java", "Android"]
   }
 ]

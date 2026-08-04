@@ -1,13 +1,24 @@
+<!-- ===== TITTLE BADGES ===== -->
+
 # `</> Hi The Compiler </>`
+
+<!-- ===== END TITTLE BADGES ===== -->
+
+<!-- ===== BANNER BADGES ===== -->
 
 `あにき!.` I'm `{ fa'i }` Ghost Code Developer Enthusiast.
 <img data-importer="profile-views" align="right" src="https://count.getloli.com/@:muhammadirfaiii?theme=sketch-1&padding=5&offset=2&scale=0.20&align=top&pixelated=1&darkmode=auto"  />
 
-![Ghost](img/ghost.png)
-
+<p align="center">
+  <a href="https://github.com/muhammadirfaiii">
+    <img src="img/ghost.png" width="280" alt="Ghost">
+  </a>
+</p>
+<br/>
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=60&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
+<!-- ===== END BANNER BADGES ===== -->
 
 <!-- ===== STAT'S BADGES ===== -->
 <picture>
@@ -27,6 +38,8 @@
 </picture>
 
 <!-- ===== END STAT'S BADGES ===== -->
+
+<!-- ===== TOOL'S BADGES ===== -->
 
 <details>
   <summary>ghostcode@system: ~/my-tools$ ls -l </summary>
@@ -49,23 +62,26 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
 </div>
-
 </details>
-
 <br/>
+<!-- ===== END TOOL'S BADGES ===== -->
 
+<!-- ===== PROJECTS BADGES ===== -->
 <details>
   <summary>ghostcode@system: ~/my-project$ ls -l </summary> <br/>
-
 <div align="center">
 
-| name                                                                    | a short summary                                                    | stars                                                                                           | framework                                                                                                                                                                                  |
-| ----------------------------------------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [health-care](https://github.com/muhammadirfaiii/HealthCareApplication) | _A Mobile-based application for medication and hospital listings._ | ![GitHub Repo stars](https://img.shields.io/github/stars/muhammadirfaiii/HealthCareApplication) | <div align="center"><img src="https://skillicons.dev/icons?i=java" height="20" alt="Java" />&nbsp;<img src="https://cdn.simpleicons.org/android/3DDC84" height="20" alt="Android" /></div> |
+| name                                                                   | a short summary                                                    | stars                                                                                           | framework                                                                                                                                                                                  |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Healthcare](https://github.com/muhammadirfaiii/HealthCareApplication) | _A Mobile-based application for medication and hospital listings._ | ![GitHub Repo stars](https://img.shields.io/github/stars/muhammadirfaiii/HealthCareApplication) | <div align="center"><img src="https://skillicons.dev/icons?i=java" height="20" alt="Java" />&nbsp;<img src="https://cdn.simpleicons.org/android/3DDC84" height="20" alt="Android" /></div> |
 
-</details>
-
+<br/>
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/muhammadirfaiii/muhammadirfaiii/projects/projects.svg" alt="Projects" />
 </div>
+</details>
+</div>
+<!-- ===== END PROJECTS BADGES ===== -->
 
 <!-- ===== SOCIAL BADGES ===== -->
 <br/>
@@ -84,8 +100,9 @@
 </a>
 &nbsp;&nbsp;
 </div>
-
 <!-- ===== END SOCIAL BADGES ===== -->
+
+<!-- ===== SNAKE BADGES ===== -->
 <br/>
 <div align="center">
 <picture>
@@ -93,14 +110,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadirfaiii/muhammadirfaiii/output/snake-light.svg" />
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/muhammadirfaiii/muhammadirfaiii/output/snake-light.svg" />
 </picture>
-
-</div>
-<!-- ===== SOCIAL BADGES ===== -->
-<br/>
 </div>
 
-<!-- ===== END SOCIAL BADGES ===== -->
-<br/>
-<div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/muhammadirfaiii/muhammadirfaiii/projects/projects.svg" alt="Projects" />
-</div>
+<!-- ===== END SNAKE BADGES ===== -->
