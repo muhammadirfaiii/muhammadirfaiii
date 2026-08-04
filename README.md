@@ -3,18 +3,10 @@
 `あにき!.` I'm `{ fa'i }` Ghost Code Developer Enthusiast.
 <img data-importer="profile-views" align="right" src="https://count.getloli.com/@:muhammadirfaiii?theme=sketch-1&padding=5&offset=2&scale=0.20&align=top&pixelated=1&darkmode=auto"  />
 
-![Coffee Black](img/ghost.png)
-
-#One Shot!, One Build!;
-
-```bash
-$ npm run
-
-(1/4) checking... [##########] Coffee detected.
-(2/4) checking... [########..] Smoke connected.
-(3/4) checking... [#######...] Brain initialized.
-(4/4) checking... [#####.....] Productivity +999%.
-```
+![Ghost](img/img-ghost.png)
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=60&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
 <!-- ===== STAT'S BADGES ===== -->
 <picture>
@@ -91,10 +83,6 @@ $ npm run
 </div>
 
 <!-- ===== END SOCIAL BADGES ===== -->
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=60&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
 
 <br/>
 
