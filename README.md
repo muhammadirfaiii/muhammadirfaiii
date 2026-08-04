@@ -3,7 +3,7 @@
 `あにき!.` I'm `{ fa'i }` Ghost Code Developer Enthusiast.
 <img data-importer="profile-views" align="right" src="https://count.getloli.com/@:muhammadirfaiii?theme=sketch-1&padding=5&offset=2&scale=0.20&align=top&pixelated=1&darkmode=auto"  />
 
-![Coffee Black](img/image.png)
+![Coffee Black](img/ghost.png)
 
 #One Shot!, One Build!;
 
