@@ -9,7 +9,7 @@ If the API fails for a repo, the card still renders with config data only.
 """
 import json, os, sys, urllib.request
 
-TOKEN = os.environ.get("API_KEY_GITHUB", "")
+TOKEN = os.environ.get("GITHUB_TOKEN", "")
 
 def gh(url):
     req = urllib.request.Request(url, headers={
