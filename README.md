@@ -89,8 +89,6 @@ $ npm run
 </div>
 
 <br/>
-<img data-importer="snake" src="https://raw.githubusercontent.com/muhammadirfaiii/muhammadirfaiii/snake-output/snake.svg" alt="Snake animation" />
-<br/>
 
 <div align="center">
 
