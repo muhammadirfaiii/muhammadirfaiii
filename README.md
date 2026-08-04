@@ -15,6 +15,7 @@ $ npm run
 (3/4) checking... [#######...] Brain initialized.
 (4/4) checking... [#####.....] Productivity +999%.
 ```
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=muhammadirfaiii&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
   <img width="100%" src="https://streak-stats.demolab.com/?user=muhammadirfaiii&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Arif's streak" />
@@ -115,15 +116,6 @@ $ npm run
 <a href="https://www.instagram.com/mhd_irfaiii/">
   <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
 </a>
-<!-- &nbsp;&nbsp;
-<a href="https://www.facebook.com/arifhaxnn">
-  <img src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=22D3EE&labelColor=0A101F" alt="Facebook" />
-</a> -->
-&nbsp;&nbsp;
-<a href="mailto:muhammadirfaiwdc@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
-</a>
-&nbsp;&nbsp;
 </div>
 
 <!-- ===== END SOCIAL BADGES ===== -->
