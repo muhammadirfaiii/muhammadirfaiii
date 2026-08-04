@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/muhammadirfaiii">
-    <img src="img/ghost.png" width="280" alt="Ghost">
+    <img src="img/img-ghost.png" width="280" alt="Ghost">
   </a>
 </p>
 <br/>
