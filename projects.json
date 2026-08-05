@@ -5,5 +5,12 @@
     "logo": "healthcare.png",
     "description": "A Mobile-based application for medication and hospital listings.",
     "tags": ["Java", "Android"]
+  },
+  {
+    "name": "EduViz2017",
+    "repo": "muhammadirfaiii/EduViz2017",
+    "logo": "eduviz2017.png",
+    "description": "Data visualization presenting information on the School Participation Rate (APS) in Indonesia for 2017.",
+    "tags": ["Python"]
   }
 ]
