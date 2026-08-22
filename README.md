@@ -41,11 +41,9 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=muhammadirfaiii&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
   <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=muhammadirfaiii&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top l Languages" />
 </picture>
-
 <!-- ===== END STAT'S BADGES ===== -->
 
 <!-- ===== TOOL'S BADGES ===== -->
-
 <details>
   <summary>ghostcode@system: ~/my-tools$ ls -l </summary>
   total 9k
@@ -76,10 +74,10 @@
   <summary>ghostcode@system: ~/my-project$ ls -l </summary> <br/>
 <div align="center">
 
-| name                                                                   | a short summary                                                    | stars                                                                                           | framework                                                                                                                                                                                  |
-| ---------------------------------------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Healthcare](https://github.com/muhammadirfaiii/HealthCareApplication) | _A Mobile-based application for medication and hospital listings._ | ![GitHub Repo stars](https://img.shields.io/github/stars/muhammadirfaiii/HealthCareApplication) | <div align="center"><img src="https://skillicons.dev/icons?i=java" height="20" alt="Java" />&nbsp;<img src="https://cdn.simpleicons.org/android/3DDC84" height="20" alt="Android" /></div> |
-| [EduViz2017](https://github.com/muhammadirfaiii/EduViz2017) | _Data visualization presenting information on the School Participation Rate (APS) in Indonesia for 2017._ | ![GitHub Repo stars](https://img.shields.io/github/stars/muhammadirfaiii/EduViz2017) | <div align="center"><img src="https://skillicons.dev/icons?i=python" height="20" alt="Pyhton"/>&nbsp;</div> |
+| name                                                                   | a short summary                                                                                           | stars                                                                                           | framework                                                                                                                                                                                  |
+| ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Healthcare](https://github.com/muhammadirfaiii/HealthCareApplication) | _A Mobile-based application for medication and hospital listings._                                        | ![GitHub Repo stars](https://img.shields.io/github/stars/muhammadirfaiii/HealthCareApplication) | <div align="center"><img src="https://skillicons.dev/icons?i=java" height="20" alt="Java" />&nbsp;<img src="https://cdn.simpleicons.org/android/3DDC84" height="20" alt="Android" /></div> |
+| [EduViz2017](https://github.com/muhammadirfaiii/EduViz2017)            | _Data visualization presenting information on the School Participation Rate (APS) in Indonesia for 2017._ | ![GitHub Repo stars](https://img.shields.io/github/stars/muhammadirfaiii/EduViz2017)            | <div align="center"><img src="https://skillicons.dev/icons?i=python" height="20" alt="Pyhton"/>&nbsp;</div>                                                                                |
 
 <br/>
 <div align="center">
@@ -121,7 +119,7 @@
 <!-- ===== END SNAKE BADGES ===== -->
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
 ###
